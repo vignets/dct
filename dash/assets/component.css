@@ -1,0 +1,22 @@
+#dropdown {
+    display: inline-block;
+    user-select: none;
+    width: 30%;
+    vertical-align: middle
+}
+
+#button-gray, #button-compress {
+    display: inline-block;
+    margin: 0 10px;
+    width: 20%
+}
+
+#input-box {
+    display: inline-block;
+    width: 10%
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+}
