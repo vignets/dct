@@ -1,4 +1,6 @@
-###**Image Compression using DCT**
+### **Image Compression using DCT**
+
 **run**:
+
 in dash directory
 `python app.py`
